@@ -1,0 +1,6 @@
+framework module Pods_Kiwari_ios_test_Kiwari_ios_testUITests {
+  umbrella header "Pods-Kiwari_ios_test-Kiwari_ios_testUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
